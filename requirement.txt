@@ -1,0 +1,10 @@
+python-deriv-api
+openai
+pandas
+numpy
+pyyaml
+python-telegram-bot
+websockets
+streamlit
+plotly
+streamlit-autorefresh
